@@ -1,0 +1,5 @@
+category: System
+requires: libgcc1 libplist1 libstdc++6
+external-source: libplist
+sdesc: "Apple Property List library (C++ runtime)"
+ldesc: "Library for handling Apple Binary and XML Property Lists"

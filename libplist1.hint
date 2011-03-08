@@ -1,0 +1,5 @@
+category: System
+requires: libglib2.0_0 libxml2
+external-source: libplist
+sdesc: "Apple Property List library (C runtime)"
+ldesc: "Library for handling Apple Binary and XML Property Lists"
