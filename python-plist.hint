@@ -1,5 +1,0 @@
-category: System
-requires: libgcc1 libplist++1 libstdc++6 python
-external-source: libplist
-sdesc: "Apple Property List library (Python bindings)"
-ldesc: "Library for handling Apple Binary and XML Property Lists"
